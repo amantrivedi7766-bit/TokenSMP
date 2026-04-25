@@ -1,0 +1,14 @@
+# TokenSMP Configuration
+
+tokens:
+  default-lives: 3
+  max-lives: 10
+
+gui:
+  spin-title: "&6&lToken Spin"
+  info-title: "&b&lToken Information"
+
+messages:
+  no-permission: "&cYou do not have permission to use this command."
+  revived: "&aYou have been revived!"
+  death-message: "&cYou lost a life! Lives remaining: {lives}"
