@@ -1,0 +1,17 @@
+name: TokenSMP
+version: 1.0
+main: com.tokensmp.TokenSMP
+api-version: 1.20
+commands:
+  tokens:
+    description: Main tokens command
+  tokeninfo:
+    description: View token information
+  spin:
+    description: Spin for a token
+  tokensmp:
+    description: Admin commands for TokenSMP
+permissions:
+  tokensmp.admin:
+    description: Admin access to TokenSMP
+    default: op
